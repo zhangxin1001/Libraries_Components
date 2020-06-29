@@ -42,7 +42,6 @@ export default {
     setTimeout(() => {
       this.setNumberTransform()
     })
-    window.console.log(this.num)
   },
   methods: {
     setNumberTransform() {
